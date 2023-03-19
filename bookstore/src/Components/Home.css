@@ -1,0 +1,32 @@
+.homebookstore{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: rgb(15, 15, 37);
+    margin-left: 80px;
+    margin-top: 100px;
+
+}
+
+body {
+    background: linear-gradient(78.83deg, #1366B2 -2.75%, #F5FEFF 45.5%, rgba(58, 94, 128, 0.79) 96.14%, #FFFFFF 101.59%);
+
+  }
+
+.grid-container{
+    display: grid;
+    grid-template-rows: 400px 400px 400px;
+    grid-template-columns: 300px 300px 300px;
+    margin-left: 800px;
+}
+
+
+.book1{
+    width: 200px;
+
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
